@@ -1,18 +1,24 @@
-### Hi there 👋, my name is Vijay
-#### I am Embedded Software Engineer
-![I am Embedded Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I am Vijay form India. I do Firmware Developer.
-
-Skills: C Programming and MSP430 Microcontroller
-
-- 🔭 I’m currently working on this page.Embedded Engineer 
-- 🌱 I’m currently learning C++ and Python 
-- 💬 Ask me about C Coding and Embedded Design 
-- 📫 How to reach me: vijaybalaji171@gmail.com 
+# 💫 About Me:
+🔭 I’m currently working on Embedded Software Developer<br>👯 I’m looking to collaborate on Software and Hardware Designs<br>🤝 I’m looking for help with Ethernet TCP/IP Protocols<br>🌱 I’m currently learning C++ and Python Ethernet Protocols<br>💬 Ask me about anything related to C and Embedded technologies<br>⚡ Fun fact - I am Lazy but Smart
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VidyutVJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vidyut_vijay/)  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vidyut_vijay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vidyut_vijay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-balaji-saravanan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Vidyut_Vijay_) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VidyutVJ&show_icons=true)  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VidyutVJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VidyutVJ&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidyutVJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Vidyut_Vijay_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VidyutVJ&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
